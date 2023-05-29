@@ -142,7 +142,7 @@ function Classes() {
           <ClassesBox
             bgImg="box-bg"
             title="Mma"
-            trainer="Becky Lynch"
+            trainer="Ronda Rousey"
             date="Fri: 6:00 am"
           />
           <ClassesBox
@@ -154,7 +154,7 @@ function Classes() {
           <ClassesBox
             bgImg="fitness-bg"
             title="Fitness"
-            trainer="Mia Malkova"
+            trainer="Trish Stratus"
             date="Sun: 5:00 pm"
           />
         </div>
