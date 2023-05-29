@@ -9,7 +9,6 @@ Welcome to the AbCity Gym website! This web application is built using React, Ta
 -   **Interactive UI with React**: ABCity Gym website utilizes React to create a dynamic and responsive user interface. Enjoy smooth navigation and interactive components for an enhanced browsing experience.
     
 -   **Tailwind CSS**: The website is styled using Tailwind CSS, a utility-first CSS framework. Tailwind CSS allows for easy customization and a consistent design system throughout the application.
-- 
 
 ## Getting Started
 
