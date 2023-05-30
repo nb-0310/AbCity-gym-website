@@ -59,7 +59,6 @@ function About() {
               />
               <img src={GirlRedBg} alt="bg-red" className="girl-bg" />
               <img src={GirlText} alt="bg-text" className="girl-text" />
-              <img src={GirlWind} alt="bg-wind" className="girl-wind" />
             </div>
           </div>
 
